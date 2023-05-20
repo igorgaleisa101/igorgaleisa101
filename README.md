@@ -9,8 +9,7 @@ Full-stack software developer with more than 10 years in the software developmen
 
 I’m Software engineer with strong knowledge of good programming practices such OOP, Software Architecture, Design Patterns, Agile Methodologies, Continuous Delivery, Test Driven Development, Technical designs and documentation. Highly knowledgeable in full software development lifecycle from requirement gathering to plan, design, architect, integration, coding, testing, and review.
 
-In addition to my technical skills, I have excellent communication skills and ability to work with a team. Personal commitment to continuous learning and self-development. Always passionate about quality, usability and the use of best practices, methodologies and latest cutting-edge technologies. Experience working remotely and on site for UK, German, Austrian, Dutch, US companies.
-
+In addition to my technical skills, I have excellent communication skills and ability to work with a team. Personal commitment to continuous learning and self-development. Always passionate about quality, usability and the use of best practices, methodologies and latest cutting-edge technologies.
 
 Please feel free to explore my GitHub repositories and contact me with any questions or project inquiries. Thank you for your consideration.
 ## 🛠️ Languages and Tools
